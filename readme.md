@@ -1,3 +1,5 @@
-Omnifood[v1].
+Omnifood
 
-This is a simple one-page website featuring the fictitious Omnifood brand. This is built and taught from a Udemy course RWD and Development with HTML5 and CSS3.
+This is a simple one-page website featuring the fictitious Omnifood brand.
+
+Building Responsive real world website using HTML5, Css3 and jquerry. #instructor: Jonas Schmedtmann (udemy)
