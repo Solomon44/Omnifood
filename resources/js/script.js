@@ -136,7 +136,6 @@ $(document).ready(function () {
     if (icon.hasClass('ion-navicon-round') && clicked == 'logo-black') return;
 
     //Opens and closes the menu
-
     if ($(window).width() < 768) {
       nav.slideToggle(200);
     }
